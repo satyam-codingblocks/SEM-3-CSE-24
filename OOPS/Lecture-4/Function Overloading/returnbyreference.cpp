@@ -25,4 +25,5 @@ int main()
 	return 0; 
 } 
 
+// Return type of the above function retByRef() is a reference of the variable x so value 10 will be assigned into the x.
 
