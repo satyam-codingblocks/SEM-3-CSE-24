@@ -7,8 +7,6 @@ class Base{
     {
         cout<<"base"<<endl;
     }
-
-
 };
 class child : public Base{
     public:
@@ -17,7 +15,6 @@ class child : public Base{
         Base::display();
         cout<<"child"<<endl;
     }
-
 };
 int main()
 {
